@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".Activities.LoginActivity"
-    android:background="#ffffff">
+    android:background="@color/colorPrimaryDark">
 
 
     <ImageView
@@ -27,7 +27,7 @@
         android:layout_marginBottom="16dp"
         android:background="@drawable/reg_edittext_style"
         android:ems="10"
-        android:hint="Mail"
+        android:hint="Enter Email"
         android:textColorHint="#808080"
         android:inputType="textPersonName"
         android:textColor="@color/black"
@@ -44,9 +44,10 @@
         app:layout_constraintGuide_percent="0.500684" />
 
     <EditText
+
         android:id="@+id/login_password"
         android:background="@drawable/reg_edittext_style"
-        android:hint="Password"
+        android:hint="Enter password"
         android:textColorHint="#808080"
         android:textColor="@color/black"
         android:layout_width="306dp"
@@ -64,8 +65,8 @@
         android:layout_width="148dp"
         android:layout_height="47dp"
         android:background="@drawable/reg_btn_style"
-        android:text="Login"
-        android:textColor="#ffffff"
+        android:text="Log in"
+        android:textColor="@color/black"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.498"

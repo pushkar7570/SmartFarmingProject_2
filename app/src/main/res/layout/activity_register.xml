@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".Activities.RegisterActivity"
-    android:background="#ffffff">
+    android:background="@color/colorPrimaryDark">
 
     <ImageView
         android:id="@+id/regUserPhoto"
@@ -127,6 +127,7 @@
         app:layout_constraintTop_toBottomOf="@+id/regMail" />
 
     <RadioButton
+        android:background="@color/colorPrimaryLight"
         android:id="@+id/regFarmer"
         android:layout_width="125dp"
         android:layout_height="wrap_content"
@@ -138,6 +139,7 @@
         app:layout_constraintTop_toTopOf="@+id/guideline3" />
 
     <RadioButton
+        android:background="@color/colorPrimaryLight"
         android:id="@+id/regExpert"
         android:layout_width="125dp"
         android:layout_height="47dp"

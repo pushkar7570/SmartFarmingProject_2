@@ -3,12 +3,20 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/nitin/AndroidStudioProjects/SmartFarmingProject/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.3445" />
         <entry key="..\:/Users/nitin/AndroidStudioProjects/SmartFarmingProject/app/src/main/res/drawable/black_gradient.xml" value="0.3555" />
         <entry key="..\:/Users/nitin/AndroidStudioProjects/SmartFarmingProject/app/src/main/res/drawable/circle_bg.xml" value="0.3555" />
         <entry key="..\:/Users/nitin/AndroidStudioProjects/SmartFarmingProject/app/src/main/res/drawable/edittext_button_style_rounded.xml" value="0.3555" />
+        <entry key="..\:/Users/nitin/AndroidStudioProjects/SmartFarmingProject/app/src/main/res/drawable/ic_baseline_edit_24.xml" value="0.3445" />
+        <entry key="..\:/Users/nitin/AndroidStudioProjects/SmartFarmingProject/app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.3445" />
+        <entry key="..\:/Users/nitin/AndroidStudioProjects/SmartFarmingProject/app/src/main/res/drawable/ic_baseline_settings_24.xml" value="0.3445" />
+        <entry key="..\:/Users/nitin/AndroidStudioProjects/SmartFarmingProject/app/src/main/res/drawable/ic_launcher_background.xml" value="0.3445" />
+        <entry key="..\:/Users/nitin/AndroidStudioProjects/SmartFarmingProject/app/src/main/res/drawable/ic_menu_camera.xml" value="0.3445" />
+        <entry key="..\:/Users/nitin/AndroidStudioProjects/SmartFarmingProject/app/src/main/res/drawable/ic_menu_slideshow.xml" value="0.3445" />
         <entry key="..\:/Users/nitin/AndroidStudioProjects/SmartFarmingProject/app/src/main/res/drawable/popup_edittext_style.xml" value="0.3555" />
         <entry key="..\:/Users/nitin/AndroidStudioProjects/SmartFarmingProject/app/src/main/res/drawable/reg_btn_style.xml" value="0.3555" />
         <entry key="..\:/Users/nitin/AndroidStudioProjects/SmartFarmingProject/app/src/main/res/drawable/reg_edittext_style.xml" value="0.3555" />
+        <entry key="..\:/Users/nitin/AndroidStudioProjects/SmartFarmingProject/app/src/main/res/drawable/side_nav_bar.xml" value="0.3445" />
         <entry key="..\:/Users/nitin/AndroidStudioProjects/SmartFarmingProject/app/src/main/res/layout/activity_home.xml" value="0.11875" />
         <entry key="..\:/Users/nitin/AndroidStudioProjects/SmartFarmingProject/app/src/main/res/layout/activity_home2.xml" value="0.33" />
         <entry key="..\:/Users/nitin/AndroidStudioProjects/SmartFarmingProject/app/src/main/res/layout/activity_login.xml" value="0.33" />
@@ -18,6 +26,7 @@
         <entry key="..\:/Users/nitin/AndroidStudioProjects/SmartFarmingProject/app/src/main/res/layout/app_bar_home.xml" value="0.25" />
         <entry key="..\:/Users/nitin/AndroidStudioProjects/SmartFarmingProject/app/src/main/res/layout/circle_bg.xml" value="0.3541666666666667" />
         <entry key="..\:/Users/nitin/AndroidStudioProjects/SmartFarmingProject/app/src/main/res/layout/content_home.xml" value="0.33" />
+        <entry key="..\:/Users/nitin/AndroidStudioProjects/SmartFarmingProject/app/src/main/res/layout/fragment_gallery.xml" value="0.3374094202898551" />
         <entry key="..\:/Users/nitin/AndroidStudioProjects/SmartFarmingProject/app/src/main/res/layout/fragment_home.xml" value="0.33" />
         <entry key="..\:/Users/nitin/AndroidStudioProjects/SmartFarmingProject/app/src/main/res/layout/fragment_home2.xml" value="0.3541666666666667" />
         <entry key="..\:/Users/nitin/AndroidStudioProjects/SmartFarmingProject/app/src/main/res/layout/fragment_profile.xml" value="0.1" />
@@ -27,6 +36,7 @@
         <entry key="..\:/Users/nitin/AndroidStudioProjects/SmartFarmingProject/app/src/main/res/layout/raw_post_item.xml" value="0.33" />
         <entry key="..\:/Users/nitin/AndroidStudioProjects/SmartFarmingProject/app/src/main/res/layout/row_comment.xml" value="0.33" />
         <entry key="..\:/Users/nitin/AndroidStudioProjects/SmartFarmingProject/app/src/main/res/menu/activity_main_drawer.xml" value="0.3541666666666667" />
+        <entry key="..\:/Users/nitin/AndroidStudioProjects/SmartFarmingProject/app/src/main/res/menu/home.xml" value="0.3541666666666667" />
       </map>
     </option>
   </component>
